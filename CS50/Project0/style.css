@@ -160,7 +160,7 @@ ul.nav li a:hover
 	.grid {
 		display: grid;
 		padding: 10px;
-		grid-column-gap: 10px;
+		grid-column-gap: 30px;
 		grid-row-gap: 10px;
 		grid-template-columns: 20% 45%;
 	}
